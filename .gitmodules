@@ -1,0 +1,36 @@
+[submodule "lib/curl-7.60.0-win64-mingw"]
+	path = lib/curl-7.60.0-win64-mingw
+	url = https://github.com/NewYaroslav/curl-7.60.0-win64-mingw.git
+[submodule "lib/xtime_cpp"]
+	path = lib/xtime_cpp
+	url = https://github.com/NewYaroslav/xtime_cpp.git
+[submodule "lib/json"]
+	path = lib/json
+	url = https://github.com/nlohmann/json.git
+[submodule "lib/FIXAPI"]
+	path = lib/FIXAPI
+	url = https://github.com/fxcm/FIXAPI.git
+[submodule "lib/quickfix"]
+	path = lib/quickfix
+	url = https://github.com/quickfix/quickfix.git
+[submodule "lib/--recurse-submodules"]
+	path = lib/--recurse-submodules
+	url = https://github.com/socketio/socket.io-client-cpp.git
+[submodule "lib/socket.io-client-cpp"]
+	path = lib/socket.io-client-cpp
+	url = https://github.com/socketio/socket.io-client-cpp.git
+[submodule "lib/websocketpp"]
+	path = lib/websocketpp
+	url = https://github.com/ziocleto/websocketpp.git
+[submodule "lib/Simple-WebSocket-Server"]
+	path = lib/Simple-WebSocket-Server
+	url = https://github.com/eidheim/Simple-WebSocket-Server.git
+[submodule "lib/asio"]
+	path = lib/asio
+	url = https://github.com/NewYaroslav/asio.git
+[submodule "lib/openssl_win64"]
+	path = lib/openssl_win64
+	url = https://github.com/NewYaroslav/openssl_win64.git
+[submodule "lib/IXWebSocket"]
+	path = lib/IXWebSocket
+	url = https://github.com/machinezone/IXWebSocket.git
